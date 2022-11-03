@@ -1,7 +1,5 @@
-# Big title
+# Mathematica files for density profiles
 
-text
+roots.nb generates coefficients for the quartic polynomial. den_prof.nb generates the density profiles using the coefficients calculated by roots.nb
 
-## Small title
 
-etc
